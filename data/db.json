@@ -38,9 +38,9 @@
     },
     {
       "id": 8,
-      "title": "new post",
-      "body": "new post afer clean up",
-      "datetime": "March 05, 2022 9:53:41 PM"
+      "title": "new post after redux",
+      "body": "redux is exciting",
+      "datetime": "March 06, 2022 9:39:19 PM"
     }
   ]
 }
